@@ -1,2 +1,2 @@
 # GUI-Calculator
-Built using java swing.
+basic calculator built using java swing.
